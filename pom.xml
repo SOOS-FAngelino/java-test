@@ -6,6 +6,11 @@
   <artifactId>pa-8382</artifactId>
   <version>1.0.0</version>
   <packaging>pom</packaging>
+  
+  <modules>
+        <module>sooster-core</module>
+        <module>sooster-war</module>
+  </modules>
 
   <dependencies>
 	<dependency>
