@@ -5,12 +5,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>io-soos</groupId>
-        <artifactId>pa-8382</artifactId>
-        <version>3.7.0-SNAPSHOT</version>
+		<groupId>io-soos</groupId>
+		<artifactId>pa-8382</artifactId>
+		<version>1.0.0</version>
     </parent>
 
-    <artifactId>sooster-core</artifactId>
+	  <modelVersion>4.0.0</modelVersion>
+		  <artifactId>MavenExamples</artifactId>
+		  <name>MavenExamples Child POM</name>
+	  <packaging>jar</packaging>
 
     <dependencies>
         <dependency>
